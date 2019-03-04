@@ -3,14 +3,14 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:util="http://www.springframework.org/schema/util"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd">
 
-    <bean id="helloWorld" class="com.soft1721.spring.hello.HelloWorld"/>
-    <bean id="phone" class="com.soft1721.spring.hello.Phone">
+    <bean id="helloWorld" class="com.spring.quickstart.hello.HelloWorld"/>
+    <bean id="phone" class="com.spring.quickstart.hello.Phone">
         <constructor-arg name="bName" value="小米9"/>
         <constructor-arg name="money" value="3888"/>
         <constructor-arg name="size" value="6.2英寸"/>
     </bean>
 
-    <bean id="student" class="com.soft1721.spring.hello.Student">
+    <bean id="student" class="com.spring.quickstart.hello.Student">
         <property name="name" value="xiaoming"/>
         <property name="age" value="18"/>
         <property name="phone" ref="phone"/>
