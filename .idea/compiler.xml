@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="IoC" />
+        <module name="Aop" />
         <module name="quickstudy" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Aop" target="1.8" />
+      <module name="aopppp" target="1.8" />
       <module name="IoC" target="1.8" />
       <module name="quickstudy" target="1.8" />
     </bytecodeTargetLevel>
