@@ -10,6 +10,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Aop" />
+        <module name="ORM" />
         <module name="quickstudy" />
       </profile>
     </annotationProcessing>
@@ -17,6 +18,7 @@
       <module name="Aop" target="1.8" />
       <module name="aopppp" target="1.8" />
       <module name="IoC" target="1.8" />
+      <module name="ORM" target="1.8" />
       <module name="quickstudy" target="1.8" />
     </bytecodeTargetLevel>
   </component>

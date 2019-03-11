@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Aop/Aop.iml" filepath="$PROJECT_DIR$/Aop/Aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/IoC/IoC.iml" filepath="$PROJECT_DIR$/IoC/IoC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ORM/ORM.iml" filepath="$PROJECT_DIR$/ORM/ORM.iml" />
       <module fileurl="file://$PROJECT_DIR$/quickstudy/quickstudy.iml" filepath="$PROJECT_DIR$/quickstudy/quickstudy.iml" />
     </modules>
   </component>

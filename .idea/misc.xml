@@ -3,6 +3,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/AOPPPP" />
     <file type="web" url="file://$PROJECT_DIR$/IoC" />
+    <file type="web" url="file://$PROJECT_DIR$/ORM" />
     <file type="web" url="file://$PROJECT_DIR$/quickstudy" />
   </component>
   <component name="MavenProjectsManager">
@@ -11,6 +12,7 @@
         <option value="$PROJECT_DIR$/quickstudy/pom.xml" />
         <option value="$PROJECT_DIR$/IoC/pom.xml" />
         <option value="$PROJECT_DIR$/AOP/pom.xml" />
+        <option value="$PROJECT_DIR$/ORM/pom.xml" />
       </list>
     </option>
   </component>
