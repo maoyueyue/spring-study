@@ -18,4 +18,8 @@
     <aop:aspectj-autoproxy/>
     <bean id="fighter" class="com.spring.aop.fightertiger.Fighter"/>
     <bean id="tiger" class="com.spring.aop.fightertiger.Tiger" />
+
+    <aop:aspectj-autoproxy/>
+    <bean id="imageCopy" class="com.spring.aop.image.ImageCopy"/>
+    <bean id="imageHandler" class="com.spring.aop.image.ImageHandler"/>
 </beans>
