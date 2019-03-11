@@ -1,4 +1,4 @@
-package com.spring.aop.aop;
+package com.spring.aop;
 
 /**
  * Hello world!
