@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/IoC/IoC.iml" filepath="$PROJECT_DIR$/IoC/IoC.iml" />
       <module fileurl="file://$PROJECT_DIR$/ORM/ORM.iml" filepath="$PROJECT_DIR$/ORM/ORM.iml" />
       <module fileurl="file://$PROJECT_DIR$/quickstudy/quickstudy.iml" filepath="$PROJECT_DIR$/quickstudy/quickstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
     </modules>
   </component>
 </project>
